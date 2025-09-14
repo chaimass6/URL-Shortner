@@ -1,6 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
-import InputShortner from './InputShortner';
+import InputShortner from './inputshortner';
 function App() {
   return (
     <div className="container">
